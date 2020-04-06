@@ -187,3 +187,4 @@ class Kiwoom(QAxWidget):
 
             self.detail_account_info_event_loop_test.exit()
         #########################################################################
+        #4/6
